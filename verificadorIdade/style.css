@@ -1,9 +1,17 @@
 body {
   background: rgb(9, 112, 138);
+
+  /* background: rgb(50, 32, 150);
+   */
   font: normal 15pt Arial;
   text-align: center;
 }
 
+#foto {
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+}
 header {
   color: white;
 }
