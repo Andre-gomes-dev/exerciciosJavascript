@@ -1,11 +1,11 @@
 function verificaHora() {
   var hora = new Date();
-  //var horaAtual = hora.getHours();
-  var horaAtual = 0;
+  var horaAtual = hora.getHours();
+  var minutosAtuais = hora.getMinutes();
   var TempoDoDia = "";
   var resultado = document.querySelector("div#res");
   var tempo = document.querySelector("div#tempo");
-
+  var photo = document.querySelector("div#photo");
   var img = document.createElement("img");
   img.setAttribute("id", "imagem");
 
@@ -32,8 +32,9 @@ function verificaHora() {
     document.body.style.background = "rgb(" + [52, 96, 243].join(",") + ")";
     //rgb(52, 96, 243);
   }
-  resultado.appendChild(img);
-  tempo.innerHTML = `Agora é ${TempoDoDia}`;
-  //resultado.innerHTML = `agora são ${horaAtual} horas`;
-  //resultado.appendChild = `${TempoDoDia}`;
+
+  resultado.innerHTML = `agora são ${horaAtual}:${minutosAtuais}`;
+  photo.appendChild(img);
+  tempo.innerText = `${TempoDoDia}`;
+  // resultado.appendChild = `${TempoDoDia}`;
 }

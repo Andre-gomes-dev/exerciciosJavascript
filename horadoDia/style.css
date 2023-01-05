@@ -1,23 +1,28 @@
 body {
   background: rgb(9, 112, 138);
   font: normal 15pt Arial;
-  text-align: center;
 }
 
 header {
   color: white;
+  text-align: center;
 }
 
 #imagem {
   width: 250px;
   height: 250px;
   border-radius: 50%;
-  margin-bottom: auto;
+  /* margin-bottom: auto;
+   */
+}
+#tempo {
+  text-align: center;
+  color: brown;
 }
 
-#tempo {
-  font: rgb(50, 50, 197);
-}
+/* #resultado {
+  margin-top: auto;
+} */
 section {
   padding: 15px;
   text-align: center;
