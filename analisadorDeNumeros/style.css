@@ -8,9 +8,10 @@ header {
   color: white;
 }
 
-select {
+select#guaNumero {
   width: 150px;
 }
+
 section {
   padding: 15px;
   text-align: center;
