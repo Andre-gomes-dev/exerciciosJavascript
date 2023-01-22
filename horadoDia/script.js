@@ -1,7 +1,10 @@
 function verificaHora() {
   var hora = new Date();
-  var horaAtual = hora.getHours();
+  // var horaAtual = hora.getHours();
+  // var minutosAtuais = hora.getMinutes();
+  var horaAtual = 02;
   var minutosAtuais = hora.getMinutes();
+
   var TempoDoDia = "";
   var resultado = document.querySelector("div#res");
   var tempo = document.querySelector("div#tempo");
