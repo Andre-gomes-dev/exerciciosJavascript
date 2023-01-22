@@ -10,3 +10,4 @@ todos os 5 exercicios tem link para css e javascript externo. o codigo para cons
 
 será do menos complexo ao mais complexo e primeiramente começo com exercicio HORADODIA
 
+<img src="home/Documents/readmeJavascript/iniciaHoraDoDia.png" alt="inicialSite" tittle="">
