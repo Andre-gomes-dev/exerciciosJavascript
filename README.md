@@ -1,4 +1,3 @@
-
 este repositorio há 5 exercicios.
 
 primeiramente mostrarei o pilar dentre eles que é a arvore dom
@@ -11,9 +10,8 @@ começando por:
 
 <h1>HORADODIA</h1>
 
+<<<<<<< HEAD
 <img src="home/Documents/readmeJavascript/iniciaHoraDoDia.png" alt="inicialSite" tittle="">
-
-
 
 <h1>VerificadorIdade</h1>
 
@@ -35,14 +33,9 @@ tratamento de exceções:
 -caso falte algum dado em um dos 3 inputs o site não irá permitir.
 -caso o passo esteja sem valor será considerado 1.
 
-
-
 <h1>Tabuada</h1>
 
 Um código simples que propoe a criação de uma tabuada que multiplica os valores de 1 te 10.
-
-
-
 
 <h1>AnalisaNumeros</h1>
 
@@ -57,9 +50,3 @@ maior numero
 menor numero
 soma total
 quantidade de numeros digitados.
-
-
-
-
-
-
