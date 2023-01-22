@@ -5,14 +5,6 @@ function contarInicioFim() {
   var fin = document.querySelector("input#fim");
   var pas = document.querySelector("input#passo");
 
-  // var inicial = Number(ini.value);
-  // var final = Number(fin.value);
-  // var passo = Number(pas.value);
-
-  // var ini = document.getElementById("inicio");
-  // var fin = document.getElementById("fim");
-  // var pas = document.getElementById("passo");
-
   if (ini.value.length == 0 || fin.value.length == 0 || pas.value.length == 0) {
     alert("faltam dados");
     resultado.innerHTML = `Impossivel Contar, tente novamente`;
