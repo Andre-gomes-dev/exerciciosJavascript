@@ -10,7 +10,8 @@ todos os 5 exercicios tem link para css e javascript externo. o codigo para cons
 
 será do menos complexo ao mais complexo e primeiramente começo com exercicio HORADODIA
 
-<!-- <img src="imagensReadme/iniciaHoraDoDia.png" alt="inicialSite" tittle="">
- -->
+
+
  
- ![My image] (imagensReadme/iniciaHoraDoDia.png)
+![image](https://user-images.githubusercontent.com/imagensReadme/iniciaHoraDoDia.png)
+
