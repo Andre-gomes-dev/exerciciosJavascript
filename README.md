@@ -10,6 +10,10 @@ começando por:
 
 <h1>HORADODIA</h1>
 
+<img src="https://github.com/Andre-gomes-dev/exerciciosJavascript/blob/master/imagensReadme/dia.png" height="400" weight="300" </img>
+
+
+
 <<<<<<< HEAD
 <img src="home/Documents/readmeJavascript/iniciaHoraDoDia.png" alt="inicialSite" tittle="">
 
