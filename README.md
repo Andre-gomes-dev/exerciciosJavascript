@@ -10,7 +10,7 @@ começando por:
 
 <h1>HORADODIA</h1>
 
-<img src="https://github.com/Andre-gomes-dev/exerciciosJavascript/blob/master/imagensReadme/dia.png" height="400" weight="300" </img>
+<img src="![manhaHoraDoDia](https://github.com/Andre-gomes-dev/exerciciosJavascript/blob/master/imagensReadme/dia.png)" weight="300" </img>
 
 
 
